@@ -1,0 +1,4 @@
+fips_add_subdirectory(imgui)
+fips_add_subdirectory(sokol)
+fips_add_subdirectory(stb)
+fips_add_subdirectory(colla)

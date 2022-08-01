@@ -1,0 +1,9 @@
+#>fips
+# this area is managed by fips, do not edit
+.fips-*
+fips-files/build/
+fips-files/deploy/
+*.pyc
+.vscode/
+.idea/
+#<fips
